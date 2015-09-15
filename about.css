@@ -1,4 +1,3 @@
-@import url(font-awesome.min.css);
 
 
 /* Reset */
@@ -4105,6 +4104,13 @@ a.aboutlogo:hover {
 			}
 
 		@media screen and (max-width: 1280px) {
+
+			#header {
+				background-image: url("assets/overlay.png"), url("assets/pattern-size2.svg");
+			}
+
+		}
+			@media screen and (min-width: 1280px) {
 
 			#header {
 				background-image: url("assets/overlay.png"), url("assets/pattern-size2.svg");
