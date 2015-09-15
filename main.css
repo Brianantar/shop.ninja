@@ -885,6 +885,11 @@ a.aboutlogo:hover {
 	
 }
 
+.betatag {
+	height: 25px;
+	position: absolute;
+	margin-top: 3px;
+}
 
 .ninjalogo1 {
 	height: 50px;

@@ -49,6 +49,13 @@
 		box-sizing: border-box;
 	}
 
+.betatag {
+	position: absolute;
+	height: 28px;
+    margin-top: 19px;
+    margin-left: 4px;
+}
+
 /* Small Nav Bar start */
 .small {
 	background-color: #fff;
@@ -160,11 +167,11 @@ a.aboutlogo:hover {
 .aboutlogo {
 	display: block;
 	font-family: Raleway, sans-serif;
-	font-size: 15px;
+	font-size: 14px;
 	font-weight: 100;
 	position: relative;
 	max-width: 960px;
-	line-height: 23px;
+	line-height: 20px;
 }
 
 a.aboutlogo:link {
@@ -257,7 +264,9 @@ a.aboutlogo:hover {
 }
 
 /* small nav bar end */
-
+.name {
+	font-family: Raleway, sans-serif;
+}
 
 /* Grid */
 
