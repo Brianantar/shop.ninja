@@ -1912,6 +1912,7 @@ a.aboutlogo:hover {
 		line-height: 1em;
 		margin: 0 0 1em 0;
 		letter-spacing: -0.0125em;
+		font-family: Raleway, sans-serif;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2905,6 +2906,7 @@ a.aboutlogo:hover {
 	header p {
 		position: relative;
 		margin: 0 0 1.5em 0;
+		font-family: Raleway, sans-serif;
 	}
 
 		@media screen and (max-width: 736px) {
