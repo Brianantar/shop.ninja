@@ -3,7 +3,7 @@
 }
 
 body {
-	background-color: #e9f0f8;
+	background-color: #fbfbfb;
 }
 
 .ellipsis {
@@ -2215,7 +2215,7 @@ a.aboutlogo1:hover {
 	width: calc((96% - 40px) / 8);
     padding: 8px;
     background: #fff;
-    border-radius: 5px;
+    border-radius: 2px;
     border-color: rgb(238, 238, 238) rgb(221, 221, 221) rgb(187, 187, 187);
     box-shadow: rgba(0, 0, 0, 0.14902) 0px 1px 3px;
 	margin: 7px 0;
