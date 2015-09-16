@@ -50,7 +50,7 @@ body {
 	background-color: #fff;
 	width: 100%;
 	height: 60px;
-	opacity: 0.9;
+	opacity: 0.99;
 	height: 60px;
 	box-shadow: 0 0 5px;
 	top: 0;
@@ -120,7 +120,7 @@ body {
     height: 20px;
     width: 20px;
     border-radius: 30px;
-    background-color: whitesmoke;
+    background-color: #fbfbfb;
     text-align: center;
     position: fixed;
 	margin-left: 259px;
@@ -133,7 +133,7 @@ body {
 }
 
 .aboutpagelogo:hover a {
-	background: steelblue;
+	background: #4696e5;
 }
 
 .aboutlogo {
@@ -146,7 +146,7 @@ body {
 }
 
 a.aboutlogo:visited {
-	color: steelblue;
+	color: #4696e5;
 }
 
 a.aboutlogo:hover {
@@ -166,7 +166,7 @@ a.aboutlogo:hover {
 
 a.aboutlogo:link {
 	text-decoration: none;
-	color: steelblue;
+	color: #4696e5;
 
 	-webkit-transition: color 0.3s ease-in, background-color 0.3s ease-in;
 	-moz-transition: color 0.3s ease-in, background-color 0.3s ease-in;
@@ -174,7 +174,7 @@ a.aboutlogo:link {
 }
 
 a.aboutlogo:visited {
-	color: steelblue;
+	color: #4696e5;
 }
 
 a.aboutlogo:hover {
@@ -972,7 +972,7 @@ a.aboutlogo:hover {
     height: 20px;
     width: 20px;
     border-radius: 30px;
-    background-color: whitesmoke;
+    background-color: #fbfbfb;
     text-align: center;
     position: absolute;
 	margin-left: 16.4%;
@@ -985,7 +985,7 @@ a.aboutlogo:hover {
 }
 
 .aboutpagelogo1:hover a {
-	background: steelblue;
+	background: #4696e5;
 }
 
 .aboutlogo1 {
@@ -999,7 +999,7 @@ a.aboutlogo:hover {
 
 a.aboutlogo1:link {
 	text-decoration: none;
-	color: steelblue;
+	color: #4696e5;
 
 	-webkit-transition: all 0.3s ease-in;
 	-moz-transition: all 0.3s ease-in;
@@ -1008,7 +1008,7 @@ a.aboutlogo1:link {
 }
 
 a.aboutlogo1:visited {
-	color: steelblue;
+	color: #4696e5;
 }
 
 a.aboutlogo1:hover {
@@ -2285,7 +2285,7 @@ a.aboutlogo1:hover {
   border: 0;
   text-align: center;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
-  background: #3399cc;
+  background: #4696e5;
   border-radius: 5px;
   cursor: pointer;
   outline: none;

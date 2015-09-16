@@ -61,7 +61,7 @@
 	background-color: #fff;
 	width: 100%;
 	height: 60px;
-	opacity: 0.9;
+	opacity: 0.99;
 	height: 60px;
 	box-shadow: 0 0 5px;
 	top: 0;
@@ -143,7 +143,7 @@
 }
 
 .aboutpagelogo:hover a {
-	background: steelblue;
+	background: #4696e5;
 }
 
 .aboutlogo {
@@ -156,7 +156,7 @@
 }
 
 a.aboutlogo:visited {
-	color: steelblue;
+	color: #4696e5;
 }
 
 a.aboutlogo:hover {
@@ -176,7 +176,7 @@ a.aboutlogo:hover {
 
 a.aboutlogo:link {
 	text-decoration: none;
-	color: steelblue;
+	color: #4696e5;
 
 	-webkit-transition: color 0.3s ease-in, background-color 0.3s ease-in;
 	-moz-transition: color 0.3s ease-in, background-color 0.3s ease-in;
@@ -184,7 +184,7 @@ a.aboutlogo:link {
 }
 
 a.aboutlogo:visited {
-	color: steelblue;
+	color: #4696e5;
 }
 
 a.aboutlogo:hover {
