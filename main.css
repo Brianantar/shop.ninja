@@ -12,6 +12,39 @@ body {
 	overflow: hidden;
 }
 
+/* Icon */
+
+	.icon {
+		text-decoration: none;
+		border-bottom: none;
+		position: relative;
+	}
+
+		.icon:before {
+			-moz-osx-font-smoothing: grayscale;
+			-webkit-font-smoothing: antialiased;
+			font-family: FontAwesome;
+			font-style: normal;
+			font-weight: normal;
+			text-transform: none !important;
+		}
+
+		.icon > .label {
+			display: none;
+		}
+
+	.icon {
+		color:#4696e5;
+	}
+
+	.icon:hover {
+		color:#e0e0e0;
+
+		-webkit-transition: ease-in 0.3s;
+	}
+
+
+
 /* Small Nav Bar start */
 .small {
 	background-color: #fff;
